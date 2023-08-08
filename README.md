@@ -1,4 +1,10 @@
-### 👋 Hello, fellow coders and collaborators!
+### 👋 Hello, I'm Dylan Curtis
+
+## I'm a full stack Software Engineer, Baseball Fan, and Lifelong Learner
+
+## this is what I have been listing to lately
+https://open.spotify.com/user/1247183686
+
 <!--
 **Dylan-Curtis/Dylan-Curtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
