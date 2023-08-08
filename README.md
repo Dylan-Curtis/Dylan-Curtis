@@ -2,8 +2,9 @@
 
 ## I'm a full stack Software Engineer, Baseball Fan, and Lifelong Learner
 
-## this is what I have been listing to lately
-https://open.spotify.com/user/1247183686
+# this is what I have been listing to lately
+[my Music](https://open.spotify.com/user/1247183686)
+
 
 <!--
 **Dylan-Curtis/Dylan-Curtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
