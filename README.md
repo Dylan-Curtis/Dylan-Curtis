@@ -17,7 +17,8 @@
 [<img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&amp;style=for-the-badge&amp;logo=ruby-on-rails&amp;logoColor=white">](https://www.linkedin.com/in/dylan-curtis-engineer/)
 [<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB">](https://www.linkedin.com/in/dylan-curtis-engineer/)
 [<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&amp;style=for-the-badge&amp;logo=redux&amp;logoColor=white">](https://www.linkedin.com/in/dylan-curtis-engineer/)
-
+[<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">](https://www.linkedin.com/in/dylan-curtis-engineer/)
+ 	
 ##Media I am Consuming
 [<img src="https://camo.githubusercontent.com/a36f9d5591c36b152cde2deef80e4f6b794c1f71b87c8c3bd267fa19010e8447/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f343130686961504779434c2e5f53583334385f424f312c3230342c3230332c3230305f2e6a7067">](https://www.linkedin.com/in/dylan-curtis-engineer/)
 
