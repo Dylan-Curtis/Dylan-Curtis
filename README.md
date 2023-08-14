@@ -1,15 +1,27 @@
--### 👋 Hello, I'm Dylan Curtis
+### 👋 Hello, I'm Dylan Curtis
 
-## I'm a full stack Software Engineer, Baseball Fan, and Lifelong Learner
+## I'm a full stack Software Engineer, Former Civil Engineer, and Lifelong Learner
+- Currently looking for a job and learning Kotlin.
+- Goals:
+  - Continue my engineering career in software engineering.
+  - Create an android app
+  - Watch the Mariners win the world series 
+- Hobbies:
+  - Listening to music.
+  - Playing chess.
+  - Enjoying the great outdoors.
+
+
+
 
 ## What gets me coding
 [Spotify](https://open.spotify.com/user/1247183686)
 
-## Connect With Me!
+### Connect With Me!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">](https://www.linkedin.com/in/dylan-curtis-engineer/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">](https://www.instagram.com/aka_stonecoldsweetheart/)
 
-## What I know
+### What I know
 [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white">](https://www.linkedin.com/in/dylan-curtis-engineer/)
 [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white">](https://www.linkedin.com/in/dylan-curtis-engineer/)
 [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E">](https://www.linkedin.com/in/dylan-curtis-engineer/)
@@ -19,8 +31,23 @@
 [<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&amp;style=for-the-badge&amp;logo=redux&amp;logoColor=white">](https://www.linkedin.com/in/dylan-curtis-engineer/)
 [<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">](https://www.linkedin.com/in/dylan-curtis-engineer/)
  	
-##Media I am Consuming
-[<img src="https://camo.githubusercontent.com/a36f9d5591c36b152cde2deef80e4f6b794c1f71b87c8c3bd267fa19010e8447/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f343130686961504779434c2e5f53583334385f424f312c3230342c3230332c3230305f2e6a7067">](https://www.linkedin.com/in/dylan-curtis-engineer/)
+#### Media I am Consuming
+
+<img src="https://camo.githubusercontent.com/a36f9d5591c36b152cde2deef80e4f6b794c1f71b87c8c3bd267fa19010e8447/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f343130686961504779434c2e5f53583334385f424f312c3230342c3230332c3230305f2e6a7067" alt="book" width="75" align="left" data-canonical-src="[https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg](https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png)" style="max-width: 100%;">
+
+
+<img src="https://m.media-amazon.com/images/P/0812936825.01._SCLZZZZZZZ_SX500_.jpg" alt="book" width="75" align="left">
+
+<img src="https://pictures.abebooks.com/isbn/9780393057652-us.jpg" alt="book" width="75" align="left">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_K-s_jbXgjJKRA4WLE-iINvh68SMl5rJ6MqREoH5PrMc-OB6nEGV5HA8oxvxf-7pRY3w&usqp=CAU" alt="Balders Gate"  width="75" align="left">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7q0b1irOgirAJDs77NyqvtbfN4T0Xw880Ww&usqp=CAU"  alt="book" width="75" align="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Black_Leopard%2C_Red_Wolf.png/220px-Black_Leopard%2C_Red_Wolf.png" alt="book" width="75" align="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Inrainbowscover.png/220px-Inrainbowscover.png" alt="book" width="75" align="left">
+
 
 
 
