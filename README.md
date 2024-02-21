@@ -33,7 +33,7 @@
  	
 #### Media I am Consuming
 
-<img src="https://camo.githubusercontent.com/a36f9d5591c36b152cde2deef80e4f6b794c1f71b87c8c3bd267fa19010e8447/68747470733a2f2f696d616765732d6e612e73736c2d696d616765732d616d617a6f6e2e636f6d2f696d616765732f492f343130686961504779434c2e5f53583334385f424f312c3230342c3230332c3230305f2e6a7067" alt="book" width="75" align="left" data-canonical-src="[https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg](https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png)" style="max-width: 100%;">
+<img src="https://m.media-amazon.com/images/I/410hiaPGyCL._SL500_.jpg" alt="book" width="75" align="left" data-canonical-src="[https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg](https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png)" style="max-width: 100%;">
 
 
 <img src="https://m.media-amazon.com/images/P/0812936825.01._SCLZZZZZZZ_SX500_.jpg" alt="book" width="75" align="left">
